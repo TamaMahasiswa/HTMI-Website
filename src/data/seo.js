@@ -31,7 +31,7 @@ const SEO = [
 		page: "contact",
 		description:
 			"kampus uninus dian nuswantoro",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+		keywords: ["email", "website"],
 	},
 ];
 
